@@ -1,6 +1,6 @@
 const API_CONFIG = {
     //BASE_URL: "http://localhost/lab11/mycampus-cafe-slim-api/public/api"
-    BASE_URL: "https://mycampuscafe-jingwen.infinityfreeapp.com/api"
+    BASE_URL: "/api"
 };
 
 function getToken() {
